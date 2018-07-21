@@ -4,7 +4,7 @@ For the dogs and cats data, please head to Kaggle [Dogs vs. Cats Redux: Kernels 
 
 The directory structure is as follows:
 
-* Root\data\src_vix
+* Root\data\src_viz
 * Root\data\train
 * Root\img
  
